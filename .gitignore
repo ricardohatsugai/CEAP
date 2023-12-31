@@ -68,6 +68,9 @@ __recovery/
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
 
+# Modelagem
+Analise/
+
 # PYTHON
 # Byte-compiled / optimized / DLL files
 __pycache__/
