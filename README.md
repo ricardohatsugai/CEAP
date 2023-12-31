@@ -1,2 +1,3 @@
 # CEAP
-Sistema de Cadastros e Relatórios do Centro Espírita Apóstolo Paulo - Trindade
+![Ceap](./ceap.png)
+## Sistema de auxílio administrativo do Centro Espírita Apóstolo Paulo - Trindade
